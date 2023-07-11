@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple700">#FFce6cf5</color>
+    <color name="purple500">#FFAC13FF</color>
+    <color name="SKY700">#FF4ca0d7</color>
+    <color name="green200">#FF00585e</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="timer">#FFf18b0d</color>
+    <color name="green_500">#45FF00</color>
+    <color name="red_500">#FF575C</color>
+
+</resources>

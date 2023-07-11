@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuizPlay" parent="Theme.Material3.DayNight.NoActionBar">
+<!--         Customize your light theme here. -->
+<!--        primary color-->
+         <item name="colorPrimary">@color/green200</item>
+        <item  name="colorPrimaryVariant">@color/purple700 </item>
+
+<!--        secondary color-->
+        <item name="colorSecondary">@color/SKY700</item>
+        <item name="colorSecondaryVariant">@color/black</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+    <style name="Base.Theme.QuizPlaybg" parent="Theme.Material3.DayNight.NoActionBar">
+<!--         Customize your light theme here. -->
+        <item name="android:windowBackground">@color/green200</item>
+<!--        primary color-->
+         <item name="colorPrimary">@color/green200</item>
+        <item  name="colorPrimaryVariant">@color/purple700 </item>
+
+<!--        secondary color-->
+        <item name="colorSecondary">@color/SKY700</item>
+        <item name="colorSecondaryVariant">@color/black</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.QuizPlay" parent="Base.Theme.QuizPlay" />
+
+    <style name="progress_bar" >
+        <item name="colorSecondary">#ff01a6a0</item>
+    </style>
+    <style name="timer" >
+        <item name="colorSecondary">#FFC107</item>
+    </style>
+    <style name="dialog_style" parent="Theme.AppCompat.Dialog" >
+        <item name="android:windowBackground">@drawable/empty_draw</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowMinWidthMajor">80%</item>
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060329105483",
+    "project_id": "quizplay-69283",
+    "storage_bucket": "quizplay-69283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060329105483:android:d477200a9aa4f761f285ce",
+        "android_client_info": {
+          "package_name": "com.example.quizplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060329105483-cstbmr9fk3c98k62cjinmr1is4bsu71c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgLGajtTU89nkqr7_ORNn6ITj4FkmLSNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060329105483-cstbmr9fk3c98k62cjinmr1is4bsu71c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizPlay</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="justv">justv</string>
+    <string name="opps_time_out_text">Opps Time Out...</string>
+    <string name="watch_des">TODO</string>
+    <string name="try_again_text">Try Again</string>
+    <string name="next_text">NEXT</string>
+    <string name="todo_text">TODO</string>
+    <string name="exit_text">Exit</string>
+    <string name="b_text">b</string>
+    <string name="a_text">a</string>
+    <string name="c_text">c</string>
+    <string name="d_text">d</string>
+</resources>
